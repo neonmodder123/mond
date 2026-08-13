@@ -22,7 +22,7 @@
 >[!NOTE]
 > No questions regarding this topic will be answered in GitHub issues anymore.<br>Ask in the [discord server](https://discord.gg/gw8PcRF3Jr).
 
-**Version Support:**
+## Version Support:
 | iOS Version | Support |
 |---|---|
 | iOS ≤ 26.x | unsupported |
