@@ -20,7 +20,7 @@
 > The tweaks provided can **brick/bootloop** your device!<br>Use at your own risk.
 
 >[!NOTE]
-> No questions regarding this topic will be answered in GitHub issues anymore.<br>Ask in the [discord server](https://discord.gg/gw8PcRF3Jr).
+> No questions regarding Apple Intelligence will be answered in GitHub issues anymore.<br>Ask in the [discord server](https://discord.gg/gw8PcRF3Jr).
 
 ## Version Support:
 | iOS Version | Support |
