@@ -16,12 +16,20 @@
   </a>
 </div>
 
-
 > [!WARNING]  
 > The tweaks provided can **brick/bootloop** your device!<br>Use at your own risk.
 
 >[!NOTE]
 > No questions regarding this topic will be answered in GitHub issues anymore.<br>Ask in the [discord server](https://discord.gg/gw8PcRF3Jr).
+
+**Version Support:**
+| iOS Version | Support |
+|---|---|
+| iOS ≤ 26.x | unsupported |
+| iOS 27.0 dev beta 1–4 | supported |
+| iOS 27.0 public beta 1–2 | supported |
+| iOS 27.0 dev beta ≥ 5 | unupported |
+| iOS 27.0 public beta ≥ 3 | unsupported |
 
 ## Planned:
 - HouseArrest file browser<br>
