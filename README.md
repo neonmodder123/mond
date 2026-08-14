@@ -46,7 +46,8 @@
 
 ## MobileGestalt Tweaks
 <details><summary>Click here to expand</summary>
-  
+
+<br>
 **Device Artwork**<br>
 &#45; Subtype: Changes the reported device artwork/model.<br>
 &#45; Custom Device Name: Changes the reported device name.<br>
