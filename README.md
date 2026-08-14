@@ -31,7 +31,7 @@
 | iOS 27.0 dev beta ≥ 5 | unupported |
 | iOS 27.0 public beta ≥ 3 | unsupported |
 
-## Planned:
+## Planned
 - HouseArrest file browser<br>
 
 ## Implemented
